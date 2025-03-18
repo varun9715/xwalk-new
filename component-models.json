@@ -188,6 +188,13 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "heroaddon",
+        "label": "Hero Add On",
+        "value": ""
       }
     ]
   }
